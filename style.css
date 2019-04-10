@@ -1,0 +1,138 @@
+
+
+h1, h2, h3, p,h4, h5, ul, ol, li, dl, dt, dd, form, figure, form {
+    margin: 0px;
+    padding: 0px;
+    font-size: 100%;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+.clear {
+	clear:both;
+}
+
+
+a {
+	text-decoration: none;
+	color: #484848;
+}
+
+a:hover {
+	opacity:0.8;
+	color:#484848;
+	text-decoration: none!important;
+}
+
+img {
+	max-width: 100%;
+	height:auto;
+	width:auto;
+	max-height:100%;
+}
+
+
+li	{
+	list-style: none;
+}
+
+* {
+	box-sizing: border-box;
+	word-break: break-all;
+}
+
+body {
+font-family:'Roboto',"游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+color: #484848;
+line-height: 0;
+background-color: #fff;
+}
+
+
+/*---------------------------------------------------------------
+	header
+/*---------------------------------------------------------------*/
+
+header {
+	background-color:#7B8437;
+	color: #fff;
+	height: 60px;
+	position: relative;
+}
+
+header h2 {
+	font-size: 30px;
+	text-align: center;
+	line-height: 2;
+}
+
+header span {
+	font-size: 30px;
+	position: absolute;
+	top:30px;
+	left:15px;
+}
+
+/*---------------------------------------------------------------
+	contents
+/*---------------------------------------------------------------*/
+
+h3 {
+	font-size: 24px;
+}
+
+p {
+	font-size: 16px;
+}
+
+.main {
+	padding: 20px;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.icon {
+	background-color: #7B8437;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+
+}
+
+.icon span {
+	color: #fff;
+    font-size: 30px;
+    line-height: 58px;
+    text-align: center;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
